@@ -18,7 +18,7 @@ export default function Menu({ translateY }) {
     >
       <Code>
         <QRCode
-          value="https://rocketseat.com.br"
+          value="https://iranjunior.netlify.com"
           size={80}
           fgColor="#fff"
           bgColor="#8B10AE"
